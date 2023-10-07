@@ -1,0 +1,24 @@
+
+State Machine - |TopLevel|DUT:dut_instance|words:add_instance|yp3
+Name yp3.s4 yp3.s3 yp3.s2 yp3.s1 yp3.rst 
+yp3.rst 0 0 0 0 0 
+yp3.s1 0 0 0 1 1 
+yp3.s2 0 0 1 0 1 
+yp3.s3 0 1 0 0 1 
+yp3.s4 1 0 0 0 1 
+
+State Machine - |TopLevel|DUT:dut_instance|words:add_instance|yp2
+Name yp2.s4 yp2.s3 yp2.s2 yp2.s1 yp2.rst 
+yp2.rst 0 0 0 0 0 
+yp2.s1 0 0 0 1 1 
+yp2.s2 0 0 1 0 1 
+yp2.s3 0 1 0 0 1 
+yp2.s4 1 0 0 0 1 
+
+State Machine - |TopLevel|DUT:dut_instance|words:add_instance|yp1
+Name yp1.s4 yp1.s3 yp1.s2 yp1.s1 yp1.rst 
+yp1.rst 0 0 0 0 0 
+yp1.s1 0 0 0 1 1 
+yp1.s2 0 0 1 0 1 
+yp1.s3 0 1 0 0 1 
+yp1.s4 1 0 0 0 1 
